@@ -7,6 +7,8 @@ npm run dev
 npm install openai twitter-api-v2
 ```
 
-## You can use the component folder in your app directly. Make sure to either copy the provided Twitter functionality code if you're running NextJS or modify it for your backend of choice.
+# You can use the component folder in your app directly. Make sure to either copy the provided Twitter functionality code if you're running NextJS or modify it for your backend of choice.
 
-## It's preferable to set props when using the component.
+# It's preferable to set props when using the component.
+
+##<span style="color: red;">IMPORTANT: Make sure to give your project/app access to the prod or dev URL. https://developer.x.com/en/portal/projects/</span>
