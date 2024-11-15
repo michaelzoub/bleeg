@@ -11,4 +11,4 @@ npm install openai twitter-api-v2
 
 # It's preferable to set props when using the component.
 
-##<span style="color: red;">IMPORTANT: Make sure to give your project/app access to the prod or dev URL. https://developer.x.com/en/portal/projects/</span>
+<span style="color: red;">IMPORTANT: Make sure to give your project/app access to the prod or dev URL. https://developer.x.com/en/portal/projects/</span>
